@@ -41,6 +41,7 @@ ios/Flutter/Flutter.podspec
 *.secret
 *.p12
 *.pem
+.env
 
 # Miscellaneous
 *.class
